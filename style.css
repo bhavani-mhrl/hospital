@@ -1,0 +1,65 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+}
+h1{
+    background-color: rgb(18, 17, 19);
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+nav{
+     background-color: rgb(156, 156, 25);
+     text-align: center;
+     padding:10px;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    padding-left: 15px;
+}
+.description{
+    margin:15px;
+    background-color: rgba(230, 234, 234, 0.789);
+    padding:20px;
+}
+.gap-btw{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.description ol li{
+    margin-left: 3rem;
+}
+.hospital-img{
+    width:500px;
+    margin-top: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+}
+.ApprovedDoctors-tbl,.Uplift-tbl{
+    border:2px solid;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-collapse: collapse;
+    width: 100%;
+    background-color:rgba(230, 234, 234, 0.789);
+}
+th,td{
+    border: 2px solid;
+    padding: 5px;
+}
+th{
+    background-color:  rgba(34, 31, 37, 0.932);
+    color:white;
+    border: 0;
+}
+footer{
+    margin-top:20px;
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding:20px;
+}
