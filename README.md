@@ -46,10 +46,10 @@ This project showcases hospital details, approved doctors, achievements, and ide
 2.Navigate to the project folder:
    ```
    cd hospital-management-system
-   ```
+```
+
 
 3. Open index.html in your browser:
-
    ```
    hospital-management-system/
    │── index.html
