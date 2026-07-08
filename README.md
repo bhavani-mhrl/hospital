@@ -44,18 +44,19 @@ This project showcases hospital details, approved doctors, achievements, and ide
    git clone https://github.com/your-username/hospital-management-system.git
 
 2.Navigate to the project folder:
+
    ```
    cd hospital-management-system
-```
 
 
 3. Open index.html in your browser:
+
    ```
-   hospital-management-system/
-   │── index.html
-   │── style.css
-   │── assets/
-   │   └── images (hospital illustrations, icons)
+         hospital-management-system/
+          │── index.html
+          │── style.css
+          │── assets/
+          │   └── images (hospital illustrations, icons)
 
 ## 📸 Screenshots
 Add screenshots of your project here for better visualization:
