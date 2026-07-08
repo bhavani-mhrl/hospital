@@ -41,12 +41,12 @@ This project showcases hospital details, approved doctors, achievements, and ide
 1. Clone the repository:  
        
    ```
-    git clone https://github.com/your-username/hospital-management-system.git
+   git clone https://github.com/your-username/hospital-management-system.git
 
 2.Navigate to the project folder:
    ```
-    cd hospital-management-system
-```
+   cd hospital-management-system
+   ```
 
 3. Open index.html in your browser:
 
@@ -57,4 +57,18 @@ This project showcases hospital details, approved doctors, achievements, and ide
    │── assets/
    │   └── images (hospital illustrations, icons)
 
+## 📸 Screenshots
+Add screenshots of your project here for better visualization:
 
+Homepage with hospital details
+
+Doctors list with specialization
+
+Ideas section for hospital upliftment
+
+## ✨ Future Enhancements
+Add JavaScript for dynamic patient/doctor data.
+
+Implement backend (Node.js / PHP) for real-time hospital management.
+
+Create login system for patients and doctors.
