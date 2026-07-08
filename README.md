@@ -39,12 +39,12 @@ This project showcases hospital details, approved doctors, achievements, and ide
 ## 🚀 How to Run  
 
 1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/hospital-management-system.git
+      ```bash
+      git clone https://github.com/your-username/hospital-management-system.git
 
    ```bash
-   cd hospital-management-system
-```
+      cd hospital-management-system
+```Code
    hospital-management-system/
    │── index.html
    │── style.css
