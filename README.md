@@ -41,3 +41,7 @@ This project showcases hospital details, approved doctors, achievements, and ide
 1. Clone the repository:  
    ```bash
    git clone https://github.com/your-username/hospital-management-system.git
+`
+   ```bash
+   cd hospital-management-system
+
